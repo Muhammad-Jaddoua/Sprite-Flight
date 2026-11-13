@@ -2,6 +2,8 @@
 
 A small 2D arcade game built in Unity: pilot a pirate ship across the ocean, steer with the mouse, and survive as long as you can while spinning obstacles drift through the arena. Your score is how long you last.
 
+**▶ [Play it in your browser](https://play.unity.com/en/games/8d4b0741-8674-48bb-8dfe-07e3de2a197f/sprite-flight-scurvy-edition)** (Scurvy Edition on Unity Play)
+
 ![Unity](https://img.shields.io/badge/Unity-6000.3-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-2D_%7C_WebGL-blue)
@@ -34,7 +36,7 @@ A small 2D arcade game built in Unity: pilot a pirate ship across the ocean, ste
 
 **WebGL build**
 
-A WebGL build is included in [`Web Build/`](Web%20Build/) (also zipped as `Web Build.zip`). It uses Brotli compression, so it has to be hosted by a server that sends `Content-Encoding: br`, such as itch.io or Unity Play. Opening `index.html` directly from disk won't work.
+The easiest way to play is the [online version on Unity Play](https://play.unity.com/en/games/8d4b0741-8674-48bb-8dfe-07e3de2a197f/sprite-flight-scurvy-edition). A WebGL build is also included in [`Web Build/`](Web%20Build/) (zipped as `Web Build.zip`). It uses Brotli compression, so it has to be hosted by a server that sends `Content-Encoding: br`, such as itch.io or Unity Play. Opening `index.html` directly from disk won't work.
 
 ## Project structure
 
