@@ -150,4 +150,4 @@ Packages/packages-lock.json linguist-generated
 LightingData.asset     binary
 
 # Keep GitHub's language stats focused on project code
-Web\ Build/** linguist-generated
+Web?Build/** linguist-generated
